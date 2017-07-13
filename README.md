@@ -1,8 +1,9 @@
 # nodejs-csv-uploader
 NodeJS uploader of big CSV files
 
-### If you using docker:
+### If you using docker and docker-compose:
 ```
+$ docker-compose build
 $ docker-compose up
 ```
 ### Else you need nodejs installed locally and run the following
